@@ -2,12 +2,12 @@
 Created a new React-based Google Books Search app. This app uses the Gogle Books API to retrieve book information.
 
 ## Link
- - [Deployed Link]()
+ - [Deployed Link](https://googlebooks-mmdm.herokuapp.com/)
 
 ## Screen Shots and Demo
-![home](https://github.com/mmcginley32/google_books_react/blob/main/images/screenshot.JPG)
+![home](https://github.com/mmcginley32/google_books_react/blob/master/images/screenshot.JPG)
 
-![demo](https://github.com/mmcginley32/google_books_react/blob/main/images/bookdemo.gif)
+![demo](https://github.com/mmcginley32/google_books_react/blob/master/images/bookdemo.gif)
 
 ## Tech Used
 - HTML
@@ -15,6 +15,7 @@ Created a new React-based Google Books Search app. This app uses the Gogle Books
 - Javascript
 - Booststrap
 - React with Create React App
+- MongoDB
 
 ## API Used
 - Google Books API
