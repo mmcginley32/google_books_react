@@ -5,9 +5,9 @@ Created a new React-based Google Books Search app. This app uses the Gogle Books
  - [Deployed Link]()
 
 ## Screen Shots and Demo
-![home](https://github.com/mmcginley32/google-books-react/blob/main/images/screenshot.JPG)
+![home](https://github.com/mmcginley32/google_books_react/blob/main/images/screenshot.JPG)
 
-![demo](https://github.com/mmcginley32/google-books-react/blob/main/images/bookdemo.gif)
+![demo](https://github.com/mmcginley32/google_books_react/blob/main/images/bookdemo.gif)
 
 ## Tech Used
 - HTML
